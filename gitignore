@@ -1,0 +1,9 @@
+img/ 
+media/
+*.scss
+.new
+*_origin_*.*
+origin_*.jpg
+.vscode/
+setup*.html
+favicon.ico
