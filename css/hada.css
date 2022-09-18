@@ -86,12 +86,12 @@ svg {
 }
 
 /* 2th Branch */
-.secStyle #hd{
-    background-color: rgba(0,0,0,0.5) !important;
+.secndStyle #hd{
+    background-color: rgba(211, 236, 65, 0.5) !important;
 }
-.secStyle #gnb .scrollPage{
-    color: white !important;
+.secndStyle #gnb .scrollPage{
+    
 }
-.secStyle #gnb .scrollPage:hover, a.scrollPage.on{
-    color: white !important;
+.secndStyle #gnb .scrollPage:hover, a.scrollPage.on{
+    
 }
